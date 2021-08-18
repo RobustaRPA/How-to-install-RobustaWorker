@@ -30,4 +30,4 @@
 ![image](https://user-images.githubusercontent.com/87966919/129855858-f63d5f32-1b60-4811-a484-ed4394948637.png)
 ### It may take up to 10 min. until Robusta Worker is completely up and running. You will see the status as shown below on Robusta icon at taskbar if the worker is up.
 ![image](https://user-images.githubusercontent.com/87966919/129855880-31663a1e-90aa-4791-a5b1-d42e33ec44e5.png)
-### You are now ready to connect to Robusta Orchestrator via Robusta Connector.
+### You are now ready to [connect to Robusta Orchestrator](https://github.com/RobustaRPA/How-to-connect-to-RobustaOrchestrator) via Robusta Connector.
