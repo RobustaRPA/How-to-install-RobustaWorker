@@ -1,5 +1,36 @@
 # Robusta RPA Quick Start Guide
 ![image](https://user-images.githubusercontent.com/87966919/129855641-7417b8a4-009f-44b5-a2e8-dbcf3b03f933.png)
+## System Requirements
+### 1. ORCHESTRATOR
+#### 1.1. Hardware
+  - [ ] 4 or more cores and 64-bit processor
+  
+  - [ ] 16/32 GB RAM 
+  
+  - [ ] 256 GB Hard Disk
+  
+#### 1.2. Operating System and Components
+  - [ ] Windows Server 2016 
+  
+  - [ ] MySql 5.7.26 (optional)
+
+### 2. ROBUSTA DIGITAL WORKER
+  #### 2.1. Hardware
+  - [ ] 4 or more cores and 64-bit processor
+
+  - [ ] 16 GB RAM
+
+  - [ ] 128 GB Hard Disk
+
+#### 2.2. Operating System and Components
+  - [ ] Windows 10+ or Windows Server 2016
+  
+  - [ ] 1920*1080 default resolution setting
+  
+  - [ ] Lock screen disable
+  
+  - [ ] Setting to not auto-restart when windows updates arrive
+
 ## Installing Robusta RPA Worker
 
 ### Run the given setup file and follow the steps as shown below.
