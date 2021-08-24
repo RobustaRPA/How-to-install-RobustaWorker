@@ -70,4 +70,6 @@
     </div>
 <br />
 
+<div align="center">
+
 ### You are now ready to [connect to Robusta Orchestrator](https://github.com/RobustaRPA/How-to-connect-to-RobustaOrchestrator) via Robusta Connector.
