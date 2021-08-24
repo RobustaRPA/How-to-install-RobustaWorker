@@ -1,4 +1,4 @@
-# Robusta RPA Quick Start Guide
+# Robusta RPA Installation Guide
 ![image](https://user-images.githubusercontent.com/87966919/129855641-7417b8a4-009f-44b5-a2e8-dbcf3b03f933.png)
 
 ## Installing Robusta RPA Worker
