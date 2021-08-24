@@ -4,19 +4,15 @@
 ## Installing Robusta RPA Worker
 
 ### Run the given setup file and follow the steps as shown below.
-- [ ] Step 1:
 
 ![image](https://user-images.githubusercontent.com/87966919/129855735-6bf641b9-368d-4d73-9ff0-a5c99ba8d8fb.png)
 
-- [ ] Step 2:
 
 ![image](https://user-images.githubusercontent.com/87966919/129855749-d4cb6cfc-423e-4c8c-9ace-46de1f914048.png)
 
-- [ ] Step 3:
 
 ![image](https://user-images.githubusercontent.com/87966919/129855763-11f5ca9f-6f27-4797-ab06-49ac453fe25b.png)
 
-- [ ] Step 4:
 
 ![image](https://user-images.githubusercontent.com/87966919/129855769-30f073a9-23db-41ed-8b13-b249534afbe4.png)
 
