@@ -7,6 +7,7 @@
       </a>
     </div>
 <br />
+
 ## Installing Robusta RPA Worker
 
 ### Run the given setup file and follow the steps as shown below.
@@ -58,6 +59,7 @@
       </a>
     </div>
 <br />
+
 ### It may take up to 10 min. until Robusta Worker is completely up and running. You will see the status as shown below on Robusta icon at taskbar if the worker is up.
 <div align="center">
      <img 
@@ -67,4 +69,5 @@
       </a>
     </div>
 <br />
+
 ### You are now ready to [connect to Robusta Orchestrator](https://github.com/RobustaRPA/How-to-connect-to-RobustaOrchestrator) via Robusta Connector.
