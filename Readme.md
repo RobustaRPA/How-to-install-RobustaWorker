@@ -1,16 +1,12 @@
 ﻿
 
 
-Robusta RPA 
-
-Installation Guide
 
 
 
 
-![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.001.jpeg)Robusta Cognitive Automation
+![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.001.jpeg)
 
-2021
 # **Installing Robusta RPA Orchestrator**
 
 
