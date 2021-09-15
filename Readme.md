@@ -94,6 +94,6 @@ After making sure that the robot worker is working, the connection of the orches
 
 
 
-![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.012.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.013.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.014.png)
+![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.012.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.007.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.014.png)
 
-ROBUSTA RPA INSTALLATION GUIDE		PAGE4![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.015.png)
+
