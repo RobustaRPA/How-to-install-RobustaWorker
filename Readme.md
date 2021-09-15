@@ -12,6 +12,10 @@
 
 This section covers the creation and installation of robot worker files. It shows step by step in Windows environment.
 
+
+
+
+
 ![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.002.png)
 
 
@@ -26,7 +30,7 @@ This section covers the creation and installation of robot worker files. It show
 
 ![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.003.png)
 
-Please follow the link for detailed information
+
 
 ![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.004.png)![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.005.png)
 # **Starting Robusta RPA Worker**
@@ -61,7 +65,7 @@ This section was created to ensure that the robot worker is working after the in
 
 
 
-Please follow the link for detailed information
+
 
 ![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.010.png)
 
@@ -86,7 +90,7 @@ After making sure that the robot worker is working, the connection of the orches
 
 ![](Aspose.Words.2b50d66f-e883-4be7-85ac-d2d04408fd22.011.png)
 
-Please follow the link for detailed information
+
 
 
 
