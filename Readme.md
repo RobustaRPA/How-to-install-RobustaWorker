@@ -32,7 +32,7 @@
 ![](/files/page2.jpg)
   
 
-[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
+[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf)
   
   </div>
   
@@ -50,7 +50,7 @@
 
 ![](/files/page3.jpg)
 
-[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
+[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf)
   
   </div>
   
