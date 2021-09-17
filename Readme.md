@@ -10,10 +10,10 @@
 
 <div align="center">
 
-![](page1.jpg)
+![](/files/page1.jpg)
 
 
-[LINK](Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf)
+[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf)
   
    </div>
 
@@ -29,10 +29,10 @@
 
 <div align="center">
 
-![](page2.jpg)
+![](/files/page2.jpg)
   
 
-[LINK](Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
+[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
   
   </div>
   
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-![](page3.jpg)
+![](/files/page3.jpg)
 
-[LINK](Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
+[LINK](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
   
   </div>
   
