@@ -2,12 +2,8 @@
 
 
 
-
-<div align="center">
-  
-![](page0.jpg)
-  
-  </div>
+<br>
+<br>
 
 
 # **Installing Robusta RPA Orchestrator**
@@ -17,7 +13,7 @@
 ![](page1.jpg)
 
 
-[LINK](Robusta%20RPA%20Worker%20Installation%20Guide%20EN%20v02.pdf)
+[LINK](Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf)
   
    </div>
 
