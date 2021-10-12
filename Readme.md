@@ -1,12 +1,14 @@
 ﻿
 
+# Robusta RPA Worker setup file
+### You can download setup file [here](/files/Robusta%20RPA%20Worker%20Installation%20Guide%20EN.pdf).
 
 
 <br>
 <br>
 
 
-# **Installing Robusta RPA Orchestrator**
+# **Installing Robusta RPA Worker**
 
 <div align="center">
 
